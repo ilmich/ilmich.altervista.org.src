@@ -4,7 +4,7 @@
 * [Lilala Linux - Minimal linux for single board computer](https://github.com/ilmich/lilala-linux)
 * [D-Link DSL-3782 firmware patcher](https://github.com/ilmich/dlink-dsl3782-patcher)
 * [Floppyt - minimal java web toolkit that stay in a floppy](https://github.com/ilmich/floppyt)
-
+* [Museo personale](museum.html)
 
 ### Articoli
 * [Reverse engineering di un box android rockchip (Schishion V88 Plus)](articles/rockchip-box-android-schishion-v88plus-part1-reverse-engineering.html)
