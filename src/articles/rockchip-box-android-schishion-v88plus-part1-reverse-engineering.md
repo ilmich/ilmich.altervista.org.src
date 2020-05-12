@@ -13,11 +13,11 @@ Il primo passo e' stato quello di aprire il case e ispezionare la board.
 [![V88Plus board](../resources/V88Plus_board.jpg)](../resources/V88Plus_board.jpg)
 
 Facendo un po' di ricerce con il nome visibile sul lettore schede SD (MX4VR) ho scoperto una versione del device chiamata __Schishion V88 Plus__ 
-che adotta soc __Rockchip 3229__.  
+che adotta soc __Rockchip 3228B__.  
 
 Questo e' un bene visto che la Rockchip fornisce un buon supporto sia a livello di [documentazione][2] che a livello di codice [opensource][1].  
 
-Partendo dal soc, il [Rockchip 3229][3] non sembra essere uno dei miglior processori realizzati dall'azienda, ma offre il supporto a livello hardware di diversi 
+Partendo dal soc, il Rockchip 3228B non sembra essere uno dei miglior processori realizzati dall'azienda, ma offre il supporto a livello hardware di diversi 
 codec video. Inoltre,la scheda grafica supporta le OpenGLES 2.0.  
 
 Approfondendo ulteriormente la vista della board, ho individuato il chip della memoria NAND  
@@ -39,5 +39,3 @@ _...da continuare_
 
 [1]: https://github.com/rockchip-linux
 [2]: http://opensource.rock-chips.com/wiki_Main_Page
-[3]: http://www.rock-chips.com/a/en/products/RK32_Series/2016/1109/799.html
-

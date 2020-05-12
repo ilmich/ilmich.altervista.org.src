@@ -12,6 +12,7 @@
 ### Musl toolchains (per macchine a 64bit)
 Le seguenti toolchains sono state generate con il tool [musl-cross-make](https://github.com/richfelker/musl-cross-make)
 
+* [arm-linux-musleabihf-1.2.0-gcc-8.3.0-linux-4.19.88.tar.xz](toolchains/arm-linux-musleabihf-1.2.0-gcc-8.3.0-linux-4.19.88.tar.xz)
 * [arm-linux-musleabihf-1.1.24-gcc-9.2.0-linux-4.19.88.tar.xz](toolchains/arm-linux-musleabihf-1.1.24-gcc-9.2.0-linux-4.19.88.tar.xz)
 * [i486-linux-musl-1.1.24-gcc-9.2.0-linux-4.19.88.tar.xz](toolchains/i486-linux-musl-1.1.24-gcc-9.2.0-linux-4.19.88.tar.xz)
 * [x86_64-linux-musl-1.1.24-gcc-9.2.0-linux-4.19.88.tar.xz](toolchains/x86_64-linux-musl-1.1.24-gcc-9.2.0-linux-4.19.88.tar.xz)

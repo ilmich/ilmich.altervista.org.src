@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./ssg5 src/ dst/ "ilmich personal website" https://ilmich.github.io
+./ssg5 src/ dst/ "ilmich personal website" http://ilmich.altervista.org
